@@ -144,7 +144,7 @@ padding-left: 20px  ;
 /*-------------------testimonials--------------------*/
 #testimonials
 {
-    margin: 100px 0;
+    margin: 50px 0;
 }
 .testimonials
 {
@@ -237,5 +237,5 @@ padding-left: 20px  ;
 {
     margin-bottom: 0;
     padding-bottom: 0;
-    text-align: center;
+    text-align: center; 
 }
